@@ -6,6 +6,9 @@
 #include <windows.h>
 using namespace std;
 
+
+// ›“Œ“ ≈¡¿Õ€… GITHUB –¿¡Œ“¿≈“!!!!!!!
+
 void SetColor(int col)
 {
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), col);
